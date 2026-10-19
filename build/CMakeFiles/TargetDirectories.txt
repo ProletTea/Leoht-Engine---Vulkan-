@@ -1,3 +1,0 @@
-D:/Programing/MyRenderer/Leoht Engine - Vulkan/build/CMakeFiles/Leoht.dir
-D:/Programing/MyRenderer/Leoht Engine - Vulkan/build/CMakeFiles/ALL_BUILD.dir
-D:/Programing/MyRenderer/Leoht Engine - Vulkan/build/CMakeFiles/ZERO_CHECK.dir
