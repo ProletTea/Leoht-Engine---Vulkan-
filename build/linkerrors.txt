@@ -1,0 +1,8 @@
+================================================================================
+Linker Errors
+Generated: 2026-10-19T14:07:26.460Z
+Total Errors: 1
+================================================================================
+
+[LNK4098] (MSVC)
+默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library [D:\Programing\MyRenderer\Leoht Engine - Vulkan\build\Leoht.vcxproj]
