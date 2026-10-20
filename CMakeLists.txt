@@ -29,12 +29,3 @@ target_include_directories(Leoht PRIVATE ${Vulkan_INCLUDE_DIRS})
 target_link_libraries(Leoht ${GLFW3_LIBRARY})
 target_link_libraries(Leoht ${Vulkan_LIBRARIES})
 target_link_libraries(Leoht glm::glm)
-
-# message(${GLM_INCLUDE_DIR})
-if(TARGET glm::glm)
-    message(STATUS "GLM target found")
-else()
-    message(FATAL_ERROR "GLM target not found")
-endif()
-
-# target_link_libraries (example Eigen3::Eigen)
